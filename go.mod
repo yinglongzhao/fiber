@@ -1,7 +1,8 @@
-// +heroku goVersion 1.16
-
-module fiber
+module github.com/869413421/chatgpt-web
 
 go 1.16
 
-require github.com/gofiber/fiber/v2 v2.42.0
+require (
+	github.com/gin-gonic/gin v1.7.7
+	github.com/sashabaranov/go-gpt3 v1.3.0
+)
