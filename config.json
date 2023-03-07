@@ -1,5 +1,5 @@
 {
-  "api_key": "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",
+  "api_key": "",
   "port": 8080,
   "bot_desc": "你是一个AI助手，我需要你模拟一名温柔贴心的女朋友来回答我的问题。",
   "model": "text-davinci-001",
